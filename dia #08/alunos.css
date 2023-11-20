@@ -1,0 +1,70 @@
+*{
+    font-family: Arial, Helvetica;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(208, 208, 208);
+}
+
+
+
+body h1{
+    text-align: center;
+    margin-bottom: 50px;
+    color: brown;
+}
+
+
+body h4{
+    text-align: center;
+    margin-bottom: 20vh;
+    
+}
+
+#ksks {
+    color: blue;
+    display: flex;
+    justify-content: center;
+
+}
+
+#tsts {
+    color: palevioletred;
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+#usus {
+    color: blue;
+    display: flex;
+    justify-content: center;
+}
+
+#hshs {
+    color: aqua;
+    display: flex;
+    justify-content: center;
+}
+
+
+.botao  {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.botao button {
+     background-color: aqua;
+     color: blue;
+     border: 1px solid black;
+     border-radius: 10px;
+     padding: 10px;
+     cursor: pointer;
+}
+
+.botao button:hover{
+    color: aqua;
+    background-color: blue;
+}
